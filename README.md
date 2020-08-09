@@ -5,7 +5,7 @@ We will be collecting Heart rate and Oxygen levels from the Samsung Health app, 
 
 Then, other conditions will be checked, creating a number for the patient based on the severity of their symptoms, which will be compared to a threshold to determine whether the patient should go to the hospital.
 
-If the system deems it necesary, then the user's address and range will be asked to create an optimized list of hospitals. Else, a message will appear to tell the user their options and email a doctor, if needed.
+If the system deems it necessary, then the user's address and range will be asked to create an optimized list of hospitals. Else, a message will appear to tell the user their options and email a doctor, if needed.
 
 This application is by no means approved by the CDC, WHO, or any other health organization. Its purpose is to serve as a framework for other applications to build off of.
 
