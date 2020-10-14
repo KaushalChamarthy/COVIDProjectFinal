@@ -1,7 +1,7 @@
 # COVIDProjectFinal
 Collects health/user data and determines optimal hospital to visit, if needed.
 
-We will be collecting Heart rate and Oxygen levels from the Samsung Health app, as a csv file. Other collected data includes breathing rate, body temperature, and age/gender (used as baselines).
+We will be collecting Heart rate and Oxygen levels through user input. Other collected data includes body temperature, and age/gender (used as baselines). Additional symptom information will also be presented.
 
 Then, other conditions will be checked, creating a number for the patient based on the severity of their symptoms, which will be compared to a threshold to determine whether the patient should go to the hospital.
 
