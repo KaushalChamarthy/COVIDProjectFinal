@@ -9,6 +9,8 @@ If the system deems it necessary, then the user's address and range will be aske
 
 Other functions include a settings page where users can change personal information, a featured game tab to play a graphical game, and a tab which allows users to play and save their location on exercise videos.
 
+This application also implements login/signup functionality with custom email authentication using a one-time password (OTP).
+
 Please view https://devpost.com/software/quarantine-support-application for demonstration of application.
 
 Built with Java, JavaFX, TomTomAPI, MapQuest API, Javax.mail, Jackson, and JSON for information storage.
