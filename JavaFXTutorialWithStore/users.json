@@ -2,7 +2,7 @@
   "asd" : {
     "firstName" : "asd",
     "lastName" : "asd",
-    "email" : "santhosham.n@gmail.com",
+    "email" : "test@gmail.com",
     "userName" : "asd",
     "password" : "asd",
     "address" : "101 main 77001"
@@ -10,7 +10,7 @@
   "moasd" : {
     "firstName" : "asd",
     "lastName" : "asd",
-    "email" : "mogan.krishnan@gmail.com",
+    "email" : "test1@gmail.com",
     "userName" : "moasd",
     "password" : "asdsa",
     "address" : "asdas"
@@ -18,7 +18,7 @@
   "praveen" : {
     "firstName" : "praveen",
     "lastName" : "mogan",
-    "email" : "pmogan77@gmail.com",
+    "email" : "test2@gmail.com",
     "userName" : "praveen",
     "password" : "asd",
     "address" : "101 main 77001"
@@ -26,7 +26,7 @@
   "kumar" : {
     "firstName" : "kumar",
     "lastName" : "cti",
-    "email" : "kumar.cti123@gmail.com",
+    "email" : "test3@gmail.com",
     "userName" : "kumar",
     "password" : "asd",
     "address" : "101 main 77001"
