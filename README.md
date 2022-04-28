@@ -1,4 +1,4 @@
-# COVIDProjectFinal
+# Quarantine Support Application (QSupport)
 Collects health/user data and determines optimal hospital to visit, if needed.
 
 We will be collecting Heart rate and Breathing Rate (Roth score) through user input. Other collected data includes body temperature, and age/gender (used as baselines). Additional symptom information will also be presented.
